@@ -1,0 +1,17 @@
+# Python : caches, environnements locaux et rapports de tests
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Éditeurs et fichiers temporaires
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
